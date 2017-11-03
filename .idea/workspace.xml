@@ -1,7 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74ee616d-2dca-4e37-ae63-111c178546e5" name="Default" comment="" />
+    <list default="true" id="74ee616d-2dca-4e37-ae63-111c178546e5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/digits.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/digits.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/Portland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/a.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/result.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/.pydevproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/BPNet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/BPNetData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/BoltzmannNet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/Kohoen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/SOMnetData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/boltzmannData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/contour_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/gailv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/jobboleTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/som.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/createDist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/createDist2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/createFirstPlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/datingTestSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/datingTestSet2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/kNN.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/classifierStorage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/lenses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/treePlotter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/trees.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/create2Normal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/monoDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/bayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/plot2D.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/plotGD.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/plotSDerror.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/sigmoidPlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/horseColicTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/horseColicTraining.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/logRegres.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/EXTRAS/notLinSeperable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/EXTRAS/plotRBF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/EXTRAS/plotSupportVectors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/svmMLiA.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/testSetRBF.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/testSetRBF2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/EXTRAS/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/EXTRAS/simpleDataPlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/adaboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/horseColicTest2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/horseColicTraining2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/old_adaboost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/Old_regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/abalone.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/ex0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/ex1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10030.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10179.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10181.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10189.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10196.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego8288.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/bikeSpeedVsIq_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/bikeSpeedVsIq_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex00.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex2test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/exp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/exp2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/expTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/regTrees.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/sine.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/treeExplore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/kMeans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/places.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/portlandClubs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/testSet2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/apriori.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/bills20DataSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/lawAssnRules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/meaning20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/mushroom.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/recent100bills.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/recent20bills.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch12/fpGrowth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch12/kosarak.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/iris.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/pca.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/secom.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/testSet3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch14/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch14/0_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch14/svdRec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/err.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/inputFile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/junk.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/kickStart.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrMean.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrMeanMapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrMeanReducer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrSVM.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrSVMkickStart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/myfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/myout.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/pegasos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/proximalSVM.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/py27dbg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmDat2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmDat26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmDat27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmData.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/testSet200.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/wc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/JQXITest/test1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/a.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/dataExtract.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/logRegression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/testFunction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/test_logRegression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/LeastSquares.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/RBFnetwork.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/RBFprediction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/RBF数据集.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/ridgedata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/最小二乘法数据集.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/filterEmail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/getYourCityFromWord.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unit04/bayes.py" afterPath="$PROJECT_DIR$/unit04/bayes.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,23 +272,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit05/__init__.py">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/README.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="e#100#128#0" expanded="true" />
-              </folding>
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="horseColicTraining.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit05/horseColicTraining.txt">
+      <file leaf-file-name="filterEmail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit04/filterEmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="re.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Develop/Anaconda3/Lib/re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="203" column="9" lean-forward="false" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -36,81 +305,43 @@
       <file leaf-file-name="logRegres.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit05/logRegres.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="108" column="38" lean-forward="false" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bayes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit04/bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="108" column="13" lean-forward="true" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#32#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Apriori.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit11/Apriori.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit04/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="74" />
+            <state relative-caret-position="140">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="votesmart.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit11/votesmart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="997">
-              <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_votesmart.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit11/test_votesmart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit11/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unit11/test.py">
+      <file leaf-file-name="getYourCityFromWord.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unit04/getYourCityFromWord.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit11/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="horseColicTest.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit05/horseColicTest.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="18" />
+              <folding>
+                <element signature="e#172#204#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +364,18 @@
       <find>urllib2</find>
       <find>urllib</find>
       <find>api</find>
+      <find>vecOfDataSet</find>
+      <find>classifyNB</find>
+      <find>trainNB0</find>
+      <find>print</find>
+      <find>the error rate is</find>
     </findStrings>
+    <dirStrings>
+      <dir>E:\JavaEE_IJ_WorkSpace\MLInAction</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,7 +383,6 @@
         <option value="$PROJECT_DIR$/unit03/treePlotter.py" />
         <option value="$PROJECT_DIR$/unit03/maxDValue.py" />
         <option value="$PROJECT_DIR$/unit03/trees.py" />
-        <option value="$PROJECT_DIR$/unit04/bayes.py" />
         <option value="$PROJECT_DIR$/decisiontree/trees.py" />
         <option value="$PROJECT_DIR$/unit05/qwe.py" />
         <option value="$PROJECT_DIR$/unit05/test.py" />
@@ -153,15 +394,21 @@
         <option value="$PROJECT_DIR$/unit11/Apriori.py" />
         <option value="$PROJECT_DIR$/unit11/votesmart.py" />
         <option value="$PROJECT_DIR$/unit11/test.py" />
+        <option value="$PROJECT_DIR$/unit04/email/ham/23.txt" />
+        <option value="$PROJECT_DIR$/unit04/test.py" />
+        <option value="$PROJECT_DIR$/unit04/bayes.py" />
+        <option value="$PROJECT_DIR$/unit04/filterEmail.py" />
+        <option value="$PROJECT_DIR$/unit04/getYourCityFromWord.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="52" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -177,8 +424,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,12 +434,24 @@
             <path>
               <item name="MLInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLInAction" type="462c0819:PsiDirectoryNode" />
-              <item name="unit11" type="462c0819:PsiDirectoryNode" />
+              <item name="sourceCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="unit04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="unit05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,15 +459,16 @@
     <property name="last_opened_file_path" value="E:/Python_Jet_Workspace/Tianchi" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit11" />
-      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit05" />
-      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction" />
-      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit03" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit05" />
       <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit04" />
+      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\sourceCode" />
+      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction" />
+      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit11" />
+      <recent name="E:\JavaEE_IJ_WorkSpace\MLInAction\unit05" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,7 +483,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.getYourCityFromWord">
     <configuration name="Apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,53 +518,53 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filterEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MLInAction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit05/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit04/filterEmail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="getYourCityFromWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MLInAction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit05/logRegres.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit04/getYourCityFromWord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MLInAction" />
-      <option name="SCRIPT_NAME" value="E:\JavaEE_IJ_WorkSpace\MLInAction\unit05\test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit04/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,18 +589,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.__init__ (1)" />
       <item index="1" class="java.lang.String" itemvalue="Python.Apriori" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.logRegres" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.filterEmail" />
+      <item index="5" class="java.lang.String" itemvalue="Python.getYourCityFromWord" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Apriori" />
-        <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="3" class="java.lang.String" itemvalue="Python.logRegres" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.getYourCityFromWord" />
+        <item index="1" class="java.lang.String" itemvalue="Python.filterEmail" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Apriori" />
       </list>
     </recent_temporary>
   </component>
@@ -363,18 +621,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20110025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16075794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46136618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46076232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39865622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39798206" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -382,7 +640,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -398,11 +655,6 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/unit04/bayes.py</url>
-          <line>70</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/unit05/logRegres.py</url>
           <line>100</line>
           <option name="timeStamp" value="26" />
@@ -411,6 +663,11 @@
           <url>file://$PROJECT_DIR$/unit11/Apriori.py</url>
           <line>160</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unit04/getYourCityFromWord.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -423,148 +680,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="42" />
+      <option name="time" value="58" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/unit03/treePlotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/maxDValue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/treePlotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Develop/Python/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7656">
-          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/test.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/func_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/func_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/func_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="1598" column="0" lean-forward="false" selection-start-line="1598" selection-start-column="0" selection-end-line="1598" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Develop/Python/Python35/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit04/bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="77" column="3" lean-forward="false" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,13 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLInActionCode-master/Ch02/EXTRAS/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Develop/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3120">
@@ -681,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7392">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,25 +819,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit05/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="96">
           <caret line="5" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="20" />
           <folding>
-            <element signature="e#100#128#0" expanded="true" />
+            <element signature="e#100#128#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unit05/exampleTest.py" />
-    <entry file="file://$PROJECT_DIR$/unit05/logRegres.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/2034276465/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-407">
@@ -730,19 +836,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Develop/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Develop/Anaconda3/Lib/urllib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,7 +876,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit11/votesmart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="997">
+        <state relative-caret-position="4800">
           <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
           <folding />
         </state>
@@ -789,7 +885,7 @@
     <entry file="file://$PROJECT_DIR$/unit11/Apriori.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="74" />
+          <caret line="5" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="74" />
           <folding />
         </state>
       </provider>
@@ -799,6 +895,170 @@
         <state relative-caret-position="168">
           <caret line="7" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1598" column="0" lean-forward="false" selection-start-line="1598" selection-start-column="0" selection-end-line="1598" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Develop/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1816" column="0" lean-forward="false" selection-start-line="1816" selection-start-column="0" selection-end-line="1816" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Develop/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLInActionCode-master/Ch02/EXTRAS/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/email/ham/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/monoDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/create2Normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/email/spam/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/email/spam/5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/email/spam/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/email/spam/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/email/ham/23.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit05/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="108" column="38" lean-forward="false" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Develop/Anaconda3/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="203" column="9" lean-forward="false" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="108" column="13" lean-forward="true" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+          <folding>
+            <element signature="e#32#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/filterEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit04/getYourCityFromWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="18" />
+          <folding>
+            <element signature="e#172#204#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
