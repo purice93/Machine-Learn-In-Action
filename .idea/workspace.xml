@@ -2,266 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ee616d-2dca-4e37-ae63-111c178546e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/digits.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/digits.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/Portland.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/a.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/result.npz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/.pydevproject" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/BPNet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/BPNetData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/BoltzmannNet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/Kohoen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/SOMnetData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/boltzmannData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/contour_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/gailv.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/jobboleTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/BPNet/som.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/createDist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/createDist2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/createFirstPlot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/EXTRAS/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/datingTestSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/datingTestSet2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/kNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch02/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/classifierStorage.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/lenses.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/treePlotter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch03/trees.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/create2Normal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/EXTRAS/monoDemo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/bayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/ham/9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch04/email/spam/9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/plot2D.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/plotGD.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/plotSDerror.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/EXTRAS/sigmoidPlot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/horseColicTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/horseColicTraining.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/logRegres.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch05/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/EXTRAS/notLinSeperable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/EXTRAS/plotRBF.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/EXTRAS/plotSupportVectors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/svmMLiA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/testSetRBF.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch06/testSetRBF2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/EXTRAS/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/EXTRAS/simpleDataPlot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/adaboost.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/horseColicTest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/horseColicTraining2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch07/old_adaboost.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/Old_regression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/abalone.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/ex0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/ex1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/regression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10030.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10179.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10181.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10189.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego10196.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch08/setHtml/lego8288.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/bikeSpeedVsIq_test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/bikeSpeedVsIq_train.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex00.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/ex2test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/exp.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/exp2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/expTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/regTrees.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/sine.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch09/treeExplore.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/kMeans.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/places.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/portlandClubs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch10/testSet2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/apriori.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/bills20DataSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/lawAssnRules.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/meaning20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/mushroom.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/recent100bills.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch11/recent20bills.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch12/fpGrowth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch12/kosarak.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/extras/createFig4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/iris.data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/pca.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/secom.data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch13/testSet3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch14/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch14/0_5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch14/svdRec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/err.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/inputFile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/junk.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/kickStart.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrMean.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrMeanMapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrMeanReducer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrSVM.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/mrSVMkickStart.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/myfile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/myout.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/pegasos.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/proximalSVM.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/py27dbg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmDat2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmDat26" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmDat27" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/svmData.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/testSet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/testSet200.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Ch15/wc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/JQXITest/test1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/a.npy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/dataExtract.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/logRegression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/testFunction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/LogisticRegression/test_logRegression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/LeastSquares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/RBFnetwork.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/RBFprediction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/RBF数据集.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/ridgedata.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/Prediction/最小二乘法数据集.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sourceCode/MLInActionCode-master/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/ham/9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/email/spam/9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/filterEmail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/getYourCityFromWord.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit04/test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unit04/bayes.py" afterPath="$PROJECT_DIR$/unit04/bayes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -334,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getYourCityFromWord.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getYourCityFromWord.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit04/getYourCityFromWord.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -342,6 +84,36 @@
               <folding>
                 <element signature="e#172#204#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1904">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -376,6 +148,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -399,6 +174,7 @@
         <option value="$PROJECT_DIR$/unit04/bayes.py" />
         <option value="$PROJECT_DIR$/unit04/filterEmail.py" />
         <option value="$PROJECT_DIR$/unit04/getYourCityFromWord.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -618,12 +394,20 @@
       <option name="presentableId" value="Default" />
       <updated>1504621120272</updated>
     </task>
+    <task id="LOCAL-00001" summary="添加机器学习第四章-朴素贝叶斯">
+      <created>1509688590796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509688590797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16075794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16075794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -645,6 +429,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加机器学习第四章-朴素贝叶斯" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加机器学习第四章-朴素贝叶斯" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -685,27 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Develop/Python/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/func_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit03/maxDValue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unit03/test.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1059,6 +826,30 @@
           <folding>
             <element signature="e#172#204#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1904">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
