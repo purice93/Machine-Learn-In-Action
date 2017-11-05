@@ -15,3 +15,7 @@ dataX,labelY = logRegres.loadDataSet()
 # logRegres.plotBestFit(weights3)
 
 logRegres.mutiTest()
+
+# 测试结果:
+# the errorRate is: 0.701493
+# after 10 itertions,the errorRate mean is 0.661194

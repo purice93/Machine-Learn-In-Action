@@ -90,7 +90,7 @@ def plotBestFit(weightMat):
     plt.xlabel('特征x1');plt.ylabel('特征x2') # 坐标标题
     plt.show() # 显示
 
-# 从疝气病症预测病马的死亡率
+# 从马疝气病症预测病马的死亡率
 # 处理缺失值
 
 # 激活函数
