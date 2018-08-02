@@ -1,5 +1,4 @@
 from numpy import *
-import pdb
 
 
 def load_data_set(filename):
@@ -71,3 +70,98 @@ def create_tree(data_set, leaf_type=reg_leaf, error_type=reg_err, options=(1, 4)
     ret_tree['left'] = create_tree(l_set, leaf_type, error_type, options)
     ret_tree['right'] = create_tree(r_set, leaf_type, error_type, options)
     return ret_tree
+
+
+def is_tree(obj):
+    return type(obj).__name__ == 'dict'
+
+
+def get_mean(tree):
+    if is_tree(tree['right']):
+        tree['right'] = get_mean(tree['right'])
+    if is_tree(tree['left']):
+        tree['left'] = get_mean(tree['left'])
+    return (tree['right'] + tree['left']) / 2.0
+
+
+# 剪枝
+def prune(tree, test_data):
+    if shape(test_data)[0] == 0:
+        return get_mean(tree)
+    if (is_tree(tree['right'])) or (is_tree(tree['left'])):
+        left_set, right_set = bin_split_data_set(test_data, tree['spInd'], tree['spVal'])
+    if is_tree(tree['left']):
+        prune(tree['left'], left_set)
+    if is_tree(tree['right']):
+        prune(tree['right'], right_set)
+
+    if (not is_tree(tree['right'])) and (not is_tree(tree['left'])):
+        left_set, right_set = bin_split_data_set(test_data, tree['spInd'], tree['spVal'])
+        error_no_merge = sum(pow(left_set - tree['left'], 2)) + sum(pow(right_set - tree['right'], 2))
+        tree_mean = (get_mean(tree['left']) + get_mean(tree['right'])) / 2.0
+        error_merge = sum(pow(test_data[:, -1] - tree_mean, 2))
+        if error_merge < error_no_merge:
+            print("merging...")
+            return tree_mean
+        else:
+            return tree
+    else:
+        return tree
+
+
+# 线性回归方程，y = w * x，求解w
+# 最小二乘法
+def linear_solve(data_set):
+    m, n = shape(data_set)
+    X = mat(ones((m, n)))
+    Y = mat(ones((m, 1)))
+    X[:, 1, n] = data_set[:, 0, n - 1]
+    Y = data_set[:, -1]
+    xtx = X.T * X
+    if linalg.det(xtx) == 0:
+        raise NameError('This matrix is singular, cannot do inverse,\ntry increasing the second value of ops')
+    ws = xtx.I * (X.T * Y)
+    return ws, X, Y
+
+
+def model_leaf(data_set):
+    ws, X, Y = linear_solve(data_set)
+
+
+def model_error(data_set):
+    ws, X, Y = linear_solve(data_set)
+    y_hat = ws * X
+    return sum(pow(y_hat - Y), 2)
+
+
+def reg_tree_eval(model, input_data):
+    return float(model)
+
+
+def model_tree_eval(model, input_data):
+    n = shape(input_data)[1]
+    X = mat(ones((1, n + 1)))
+    X[:, 1:n + 1] = input_data
+    return float(X * model)
+
+
+def treeForeCast(tree, inData, model_eval=reg_tree_eval):
+    if not is_tree(tree): return model_eval(tree, inData)
+    if inData[tree['spInd']] > tree['spVal']:
+        if is_tree(tree['left']):
+            return treeForeCast(tree['left'], inData, model_eval)
+        else:
+            return model_eval(tree['left'], inData)
+    else:
+        if is_tree(tree['right']):
+            return treeForeCast(tree['right'], inData, model_eval)
+        else:
+            return model_eval(tree['right'], inData)
+
+
+def createForeCast(tree, testData, modelEval=reg_tree_eval):
+    m = len(testData)
+    yHat = mat(zeros((m, 1)))
+    for i in range(m):
+        yHat[i, 0] = treeForeCast(tree, mat(testData[i]), modelEval)
+    return yHat
